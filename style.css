@@ -1,0 +1,55 @@
+p{
+
+}
+body{
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;font-size:x-large;
+}
+
+#joseph{
+background-color: rgb(184, 169, 150);
+}
+
+#mariam{
+background-color: rgb(207, 207, 195);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+#p-ai{
+  background-color: grey;
+}
+#pic3{
+  background-color: #696969;
+}
+
+#mariam23{
+  background-color: rgb(145, 173, 168);
+}
+
+#hwari99{
+  background-color: rgb(117, 124, 121);
+}
+
